@@ -1,0 +1,16 @@
+[project]
+name = "venv-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "bs4>=0.0.2",
+    "langchain>=0.3.25",
+    "langchain-chroma>=0.2.4",
+    "langchain-community>=0.3.24",
+    "langchain-openai>=0.3.19",
+    "langchainhub>=0.1.21",
+    "rich>=14.0.0",
+]
